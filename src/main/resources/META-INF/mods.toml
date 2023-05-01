@@ -11,7 +11,7 @@ loaderVersion="[43,)" #mandatory This is typically bumped every Minecraft versio
 license="All rights reserved"
 
 [[mods]] #mandatory
-modId="awtmod" #mandatory
+modId="rb_awt" #mandatory
 version="1.0.0" #mandatory
 displayName="Red and Blue AWT MOD" #mandatory
 logoFile="" #optional
