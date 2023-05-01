@@ -1,0 +1,6 @@
+{
+  "type" : "forge:add_features",
+  "biomes" : "#minecraft:is_overworld",
+  "features": "rb_awt:rhodonite_ore_block",
+  "step" : "underground_ores"
+}
