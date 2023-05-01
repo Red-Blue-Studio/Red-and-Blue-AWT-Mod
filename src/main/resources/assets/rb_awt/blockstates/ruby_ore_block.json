@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model" : "rb_awt:block/ruby_ore_block"
+    }
+  }
+}

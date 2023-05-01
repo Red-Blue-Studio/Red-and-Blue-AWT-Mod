@@ -1,4 +1,6 @@
 {
   "item.rb_awt.ruby_item": "Ruby",
-  "block.rb_awt.ruby_block": "Ruby"
+  "block.rb_awt.ruby_block": "Ruby Block",
+  "block.rb_awt.ruby_ore_block": "Ruby Ore Block",
+  "block.rb_awt.ruby_deepslate_ore_block": "Ruby Deepslate Ore block"
 }
