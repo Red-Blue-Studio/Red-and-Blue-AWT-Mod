@@ -1,5 +1,6 @@
 package com.redandblue.rb_awt;
 
+import com.redandblue.rb_awt.init.BlockInit;
 import com.redandblue.rb_awt.init.ItemInit;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
@@ -11,6 +12,8 @@ public class RedBlueAWTMod {
 
     public RedBlueAWTMod() {
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+
         ItemInit.ITEMS.register(bus);
+        BlockInit.BLOCKS.register(bus);
     }
 }
