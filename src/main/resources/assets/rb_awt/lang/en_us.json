@@ -1,10 +1,11 @@
 {
   "item.rb_awt.ruby_item": "Ruby",
-  "block.rb_awt.ruby_block": "Ruby Block",
+  "block.rb_awt.ruby_block": "Block of Ruby",
   "block.rb_awt.ruby_ore_block": "Ruby Ore",
-  "block.rb_awt.ruby_deepslate_ore_block": "Ruby Deepslate Ore",
+  "block.rb_awt.ruby_deepslate_ore_block": "Deepslate Ruby Ore",
   "item.rb_awt.rhodonite_item": "Rhodonite",
-  "block.rb_awt.rhodonite_block": "Rhodonite Block",
+  "block.rb_awt.rhodonite_block": "Block of Rhodonite",
   "block.rb_awt.rhodonite_ore_block": "Rhodonite Ore",
-  "block.rb_awt.rhodonite_deepslate_ore_block": "Rhodonite Deepslate Ore"
+  "block.rb_awt.rhodonite_deepslate_ore_block": "Deepslate Rhodonite Ore",
+  "itemGroup.rb_awt" : "RB Armor, Weapons and Tools"
 }

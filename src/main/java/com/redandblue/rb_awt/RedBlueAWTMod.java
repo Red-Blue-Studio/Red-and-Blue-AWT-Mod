@@ -4,6 +4,8 @@ import com.redandblue.rb_awt.init.BlockInit;
 import com.redandblue.rb_awt.init.ConfiguredFeatureInit;
 import com.redandblue.rb_awt.init.ItemInit;
 import com.redandblue.rb_awt.init.PlacedFeatureInit;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
@@ -20,4 +22,14 @@ public class RedBlueAWTMod {
         ConfiguredFeatureInit.CONFIGURED_FEATURES.register(bus);
         PlacedFeatureInit.PLACED_FEATURES.register(bus);
     }
+
+
+    public static final CreativeModeTab TAB = new CreativeModeTab(MODID) {
+        @Override
+        public ItemStack makeIcon() {
+            return ItemInit.RUBY_ITEM.get().getDefaultInstance();
+        }
+
+    };
+
 }
