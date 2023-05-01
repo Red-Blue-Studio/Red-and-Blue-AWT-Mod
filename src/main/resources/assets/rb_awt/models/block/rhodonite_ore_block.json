@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all" : "rb_awt:blocks/rhodonite_ore_block"
+  }
+}

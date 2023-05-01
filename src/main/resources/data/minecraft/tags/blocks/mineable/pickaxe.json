@@ -1,0 +1,11 @@
+{
+  "replace" : false,
+  "values" :[
+    "rb_awt:ruby_block",
+    "rb_awt:ruby_ore_block",
+    "rb_awt:ruby_deepslate_ore_block",
+    "rb_awt:rhodonite_block",
+    "rb_awt:rhodonite_ore_block",
+    "rb_awt:rhodonite_deepslate_ore_block"
+  ]
+}

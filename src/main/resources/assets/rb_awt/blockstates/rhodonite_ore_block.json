@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model" : "rb_awt:block/rhodonite_ore_block"
+    }
+  }
+}
