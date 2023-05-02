@@ -101,7 +101,7 @@ public class ItemInit {
     public static final RegistryObject<ArmorItem> IRON_RHODONITE_BOOTS = ITEMS.register("iron_rhodonite_boots",
             () -> new ArmorItem(ArmorTiers.IRON_RHODONITE_MATERIAL, EquipmentSlot.FEET, props()));
 
-    
+
     private static Item.Properties props(){
         return new Item.Properties().tab(RedBlueAWTMod.TAB);
     }

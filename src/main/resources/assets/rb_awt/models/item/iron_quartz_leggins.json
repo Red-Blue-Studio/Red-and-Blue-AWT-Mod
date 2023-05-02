@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rb_awt:items/iron_quartz_leggins"
+  }
+}

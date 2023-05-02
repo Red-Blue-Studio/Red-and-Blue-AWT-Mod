@@ -15,6 +15,31 @@
   "item.rb_awt.iron_ruby_leggins": "Iron Ruby Leggins",
   "item.rb_awt.iron_ruby_boots": "Iron Ruby Boots",
 
+  "item.rb_awt.iron_amethyst_helmet": "Iron Amethyst Helmet",
+  "item.rb_awt.iron_amethyst_chestplate": "Iron Amethyst Chestplate",
+  "item.rb_awt.iron_amethyst_leggins": "Iron Amethyst Leggins",
+  "item.rb_awt.iron_amethyst_boots": "Iron Amethyst Boots",
+
+  "item.rb_awt.iron_coal_helmet": "Iron Coal Helmet",
+  "item.rb_awt.iron_coal_chestplate": "Iron Coal Chestplate",
+  "item.rb_awt.iron_coal_leggins": "Iron Coal Leggins",
+  "item.rb_awt.iron_coal_boots": "Iron Coal Boots",
+
+  "item.rb_awt.iron_quartz_helmet": "Iron Quartz Helmet",
+  "item.rb_awt.iron_quartz_chestplate": "Iron Quartz Chestplate",
+  "item.rb_awt.iron_quartz_leggins": "Iron Quartz Leggins",
+  "item.rb_awt.iron_quartz_boots": "Iron Quartz Boots",
+
+  "item.rb_awt.iron_gold_helmet": "Iron Gold Helmet",
+  "item.rb_awt.iron_gold_chestplate": "Iron Gold Chestplate",
+  "item.rb_awt.iron_gold_leggins": "Iron Gold Leggins",
+  "item.rb_awt.iron_gold_boots": "Iron Gold Boots",
+
+  "item.rb_awt.iron_rhodonite_helmet": "Iron Rhodonite Helmet",
+  "item.rb_awt.iron_rhodonite_chestplate": "Iron Rhodonite Chestplate",
+  "item.rb_awt.iron_rhodonite_leggins": "Iron Rhodonite Leggins",
+  "item.rb_awt.iron_rhodonite_boots": "Iron Rhodonite Boots",
+
   "block.rb_awt.ruby_block": "Block of Ruby",
   "block.rb_awt.ruby_ore_block": "Ruby Ore",
   "block.rb_awt.ruby_deepslate_ore_block": "Deepslate Ruby Ore",
