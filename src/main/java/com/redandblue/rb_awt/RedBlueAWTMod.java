@@ -29,7 +29,6 @@ public class RedBlueAWTMod {
         public ItemStack makeIcon() {
             return ItemInit.RUBY_ITEM.get().getDefaultInstance();
         }
-
     };
 
 }

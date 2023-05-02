@@ -1,11 +1,26 @@
 {
   "item.rb_awt.ruby_item": "Ruby",
+  "item.rb_awt.rhodonite_item": "Rhodonite",
+
+  "item.rb_awt.iron_lapis_helmet": "Iron Lapis Helmet",
+  "item.rb_awt.iron_lapis_chestplate": "Iron Lapis Chestplate",
+  "item.rb_awt.iron_lapis_leggins": "Iron Lapis Leggins",
+  "item.rb_awt.iron_lapis_boots": "Iron Lapis Boots",
+  "item.rb_awt.iron_emerald_helmet": "Iron Emerald Helmet",
+  "item.rb_awt.iron_emerald_chestplate": "Iron Emerald Chestplate",
+  "item.rb_awt.iron_emerald_leggins": "Iron Emerald Leggins",
+  "item.rb_awt.iron_emerald_boots": "Iron Emerald Boots",
+  "item.rb_awt.iron_ruby_helmet": "Iron Ruby Helmet",
+  "item.rb_awt.iron_ruby_chestplate": "Iron Ruby Chestplate",
+  "item.rb_awt.iron_ruby_leggins": "Iron Ruby Leggins",
+  "item.rb_awt.iron_ruby_boots": "Iron Ruby Boots",
+
   "block.rb_awt.ruby_block": "Block of Ruby",
   "block.rb_awt.ruby_ore_block": "Ruby Ore",
   "block.rb_awt.ruby_deepslate_ore_block": "Deepslate Ruby Ore",
-  "item.rb_awt.rhodonite_item": "Rhodonite",
   "block.rb_awt.rhodonite_block": "Block of Rhodonite",
   "block.rb_awt.rhodonite_ore_block": "Rhodonite Ore",
   "block.rb_awt.rhodonite_deepslate_ore_block": "Deepslate Rhodonite Ore",
+
   "itemGroup.rb_awt" : "RB Armor, Weapons and Tools"
 }
